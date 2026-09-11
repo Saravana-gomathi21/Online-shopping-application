@@ -1,1 +1,8 @@
 products file
+1. Laptop
+2. Keyboard
+3. Mouse
+4. Computer
+5. Monitor
+6. chair
+7. Table
