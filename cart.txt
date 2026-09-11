@@ -1,1 +1,10 @@
 cart file
+This is cart page
+No items found in this page
+
+One item added to the cart
+It is found that this is a food item.
+
+Second item added to the cart
+It is found that this is a cosmetic item.
+
