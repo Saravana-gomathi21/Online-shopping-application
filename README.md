@@ -18,3 +18,8 @@ Open the project folder
 Open index.html in a browser
 Author
 Saravana gomathi
+Files
+users.txt - Siva Abi
+products.txt - Vaira
+cart.txt - Meenakshi
+Orders.txt - Dharani
