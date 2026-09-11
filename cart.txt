@@ -1,1 +1,3 @@
 cart file
+This is cart page
+No items found in this page
